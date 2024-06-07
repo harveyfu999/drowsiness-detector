@@ -1,0 +1,4 @@
+/home/harvey/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/harvey/proj/drowsiness-detection-github/DrowsinessDetector/OpenCV/.cxx/Debug/285y256y/x86_64 \
+  opencv_jni_shared
